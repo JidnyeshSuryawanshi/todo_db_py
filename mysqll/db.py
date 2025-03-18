@@ -1,6 +1,6 @@
 import mysql.connector as mysql
 print("hello World")
-
+ 
 con=mysql.connect(host="localhost",user="root",passwd="Hello@26")
 
 print("Connection established?")
